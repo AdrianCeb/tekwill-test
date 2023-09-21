@@ -1,5 +1,11 @@
 package homework_nr_3;
 
+//Внутри метода main напишите switch-case который будет принимать
+// в качестве переменной int от 0 до 12 и в зависимости от числа отобразить
+// на экран месяц в году, например число
+// 3 -> Март
+
+
 public class HomeworkNr3 {
 
     public static void main(String[] args) {
