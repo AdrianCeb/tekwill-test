@@ -37,6 +37,7 @@ public class HomeWorkNr5 {
 
 
 
+
         for(int index = 0; index  != numbers.length;  index++ ){
              if(numbers[index] % 2 == 0)
 
